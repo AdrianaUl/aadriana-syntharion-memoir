@@ -1,2 +1,2 @@
-# aadriana-syntharion-memoir
+# adriana-syntharion-memoir
 Adriana &amp; ChatGPT personalised assistant
